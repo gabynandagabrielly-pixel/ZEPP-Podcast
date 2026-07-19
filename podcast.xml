@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Reino das Crônicas</title>
+<link>https://gabynandagabrielly-pixel.github.io/Podcast%20ZEPP</link>
+<description>Histórias originais de fantasia narradas em áudio.</description>
+<language>pt-BR</language>
+<image>
+<url>https://gabynandagabrielly-pixel.github.io/Podcast%20ZEPP/capa.png</url>
+<title>Reino das Crônicas</title>
+<link>https://gabynandagabrielly-pixel.github.io/Podcast%20ZEPP</link>
+</image>
+<item>
+<title>A Ponte dos Reinos – Parte 1</title>
+<description>Primeiro episódio de fantasia.</description>
+<enclosure url="https://ia600804.us.archive.org/14/items/audio-1.0-my/Audio%201.0%20my.mp3" length="0" type="audio/mpeg"/>
+<guid>https://ia600804.us.archive.org/14/items/audio-1.0-my/Audio%201.0%20my.mp3</guid>
+</item>
+</channel>
+</rss>
